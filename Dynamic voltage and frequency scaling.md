@@ -1,12 +1,12 @@
 ---
 tags:
   - 🌱
-date: 18--Sep--2023
+  - ComputerScience
+date: 08--Oct--2023
 ---
-
-# Dynamic voltage and frequency scaling
-
-
+# Buffer management for [[Big Data]]
+[[Eager mode]] or [[Rendezvous mode]].
+When sending large data with no coordination, there is a risk of [[Deadlock]] as the buffer is not ready to receive the data
 
 ---
-Links: 
+Links:
